@@ -1,6 +1,15 @@
 #include <iostream>
+#include <cstring>
+#include <fstream>
+
+// Include any necessary libraries here.
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+
+	/* Type your code here. */
+
+	return 0;
 }
